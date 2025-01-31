@@ -1,6 +1,6 @@
-Download all the files and put them in a folder of your name choice
-Open the entire folder in your code editor
-Run the html file 
+1. Download all the files and put them in a folder of your name choice
+2. Open the entire folder in your code editor
+3. Run the html file 
 
 
 
